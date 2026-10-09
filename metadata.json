@@ -1,0 +1,6 @@
+{
+  "name": "Local Visibility SOC Dashboard",
+  "description": "SOC analyst dashboard for endpoint software-supply-chain visibility and threat intelligence",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
